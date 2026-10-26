@@ -1,0 +1,426 @@
+{
+ "states": [
+  {
+   "ab": "AL",
+   "name": "Alabama",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "AK",
+   "name": "Alaska",
+   "status": "ok",
+   "limit": "As posted at each stop",
+   "note": "Limits are set per rest area \u2014 check the posted sign. Sleeping in the vehicle is standard practice.",
+   "src": null
+  },
+  {
+   "ab": "AZ",
+   "name": "Arizona",
+   "status": "signs",
+   "limit": "No statewide cap \u2014 camping banned",
+   "note": "Camping and campfires are banned; nothing in the ADOT rules addresses vehicle sleeping. The sign at the specific rest area governs.",
+   "src": "https://azdot.gov/business/highway-maintenance/rest-areas/rest-area-rules"
+  },
+  {
+   "ab": "AR",
+   "name": "Arkansas",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "CA",
+   "name": "California",
+   "status": "limited",
+   "limit": "8 hours in any 24",
+   "note": "Rest areas allow sleeping in the vehicle within the 8-hour cap. Tents, shelters and fires prohibited (21 CCR 2205).",
+   "src": "https://www.law.cornell.edu/regulations/california/21-CCR-2205"
+  },
+  {
+   "ab": "CO",
+   "name": "Colorado",
+   "status": "no",
+   "limit": "No overnight parking or camping (posted sign)",
+   "note": "The rule lives in the posted signs at every rest area rather than state code \u2014 but a posted sign is enforceable. Treat as a no.",
+   "src": "https://www.boondockersbible.com/learn/colorado-rest-area-rules/"
+  },
+  {
+   "ab": "CT",
+   "name": "Connecticut",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "DE",
+   "name": "Delaware",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "FL",
+   "name": "Florida",
+   "status": "limited",
+   "limit": "3 hours (10 h commercial)",
+   "note": "A 3-hour cap covers the safety nap, not a night. Commercial vehicles get 10.",
+   "src": "https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-14-28-002"
+  },
+  {
+   "ab": "GA",
+   "name": "Georgia",
+   "status": "ok",
+   "limit": "No limit \u2014 sleeping is a named permitted use",
+   "note": "The clearest statute in the country: 'normal, customary, and temporary use ... for purposes of resting, sleeping, eating' is what rest areas are for. Camping (tents, gear set up outside) is defined separately and banned (GA Code 32-6-6).",
+   "src": "https://codes.findlaw.com/ga/title-32-highways-bridges-and-ferries/ga-code-sect-32-6-6/"
+  },
+  {
+   "ab": "HI",
+   "name": "Hawaii",
+   "status": "signs",
+   "limit": "No interstate rest areas",
+   "note": "Hawaii has no interstate system and no conventional rest areas. Overnight stays are governed by county rules and private property \u2014 see the BLM/county guidance below.",
+   "src": null
+  },
+  {
+   "ab": "ID",
+   "name": "Idaho",
+   "status": "limited",
+   "limit": "10 h interstate / 16 h other highways",
+   "note": "ITD allows vehicle sleeping within posted limits; camping is defined by the hookups it bans (awning, chairs, stove).",
+   "src": "https://itd.idaho.gov/faqs/rest-areas/"
+  },
+  {
+   "ab": "IL",
+   "name": "Illinois",
+   "status": "limited",
+   "limit": "3 hours",
+   "note": "Three-hour cap; sleeping on the grounds prohibited per compilations.",
+   "src": "https://www.ilga.gov/commission/jcar/admincode/092/092005330000200R.html"
+  },
+  {
+   "ab": "IN",
+   "name": "Indiana",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "IA",
+   "name": "Iowa",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "KS",
+   "name": "Kansas",
+   "status": "ok",
+   "limit": "One night, 24-hour cap",
+   "note": "The statute's own word: one night permitted.",
+   "src": "https://www.law.cornell.edu/regulations/kansas/K-A-R-36-32-2"
+  },
+  {
+   "ab": "KY",
+   "name": "Kentucky",
+   "status": "limited",
+   "limit": "4 hours in any 24",
+   "note": "Short cap \u2014 plan around it.",
+   "src": "https://apps.legislature.ky.gov/law/kar/titles/603/005/040/"
+  },
+  {
+   "ab": "LA",
+   "name": "Louisiana",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "ME",
+   "name": "Maine",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "MD",
+   "name": "Maryland",
+   "status": "no",
+   "limit": "No overnight parking",
+   "note": "Camping and overnight parking both prohibited (COMAR 11-04-07-11).",
+   "src": "https://www.law.cornell.edu/regulations/maryland/COMAR-11-04-07-11"
+  },
+  {
+   "ab": "MA",
+   "name": "Massachusetts",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "MI",
+   "name": "Michigan",
+   "status": "signs",
+   "limit": "None today \u2014 48-h cap + camping ban proposed",
+   "note": "MDOT held a public hearing on proposed rules (Oct 2025) that would add a 48-hour cap and camping ban. Nothing in force yet.",
+   "src": "https://www.michigan.gov/mdot/news-outreach/pressreleases/2025/10/03/mdot-public-hearing-on-proposed-rules--for-roadside-facilities"
+  },
+  {
+   "ab": "MN",
+   "name": "Minnesota",
+   "status": "limited",
+   "limit": "4 hours where posted (10 h commercial)",
+   "note": "Cap applies where posted.",
+   "src": "https://www.dot.state.mn.us/restareas/policy.html"
+  },
+  {
+   "ab": "MS",
+   "name": "Mississippi",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "MO",
+   "name": "Missouri",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "MT",
+   "name": "Montana",
+   "status": "limited",
+   "limit": "12 hours, one space per vehicle",
+   "note": "MDT allows resting within the limit; camping at designated rest areas only.",
+   "src": "https://www.mdt.mt.gov/travinfo/restarea.aspx"
+  },
+  {
+   "ab": "NE",
+   "name": "Nebraska",
+   "status": "signs",
+   "limit": "No statewide cap \u2014 camping banned except designated sites",
+   "note": "The statute bans camping; it says nothing about a person asleep in a parked vehicle (Neb. Rev. Stat. 39-312).",
+   "src": "https://nebraskalegislature.gov/laws/statutes.php?statute=39-312"
+  },
+  {
+   "ab": "NV",
+   "name": "Nevada",
+   "status": "limited",
+   "limit": "18 hours in any two weeks",
+   "note": "Generous for a rest-area rule \u2014 effectively a night plus a long day (NAC 408-595).",
+   "src": "https://www.law.cornell.edu/regulations/nevada/NAC-408-595"
+  },
+  {
+   "ab": "NH",
+   "name": "New Hampshire",
+   "status": "signs",
+   "limit": "No statewide cap \u2014 tents/ground sleeping banned",
+   "note": "The ban targets tents and sleeping on the ground, not vehicle sleeping (RSA 236:58).",
+   "src": "https://gc.nh.gov/rsa/html/XX/236/236-58.htm"
+  },
+  {
+   "ab": "NJ",
+   "name": "New Jersey",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "NM",
+   "name": "New Mexico",
+   "status": "limited",
+   "limit": "24 hours in any 3 days",
+   "note": "One of the most permissive caps in the country.",
+   "src": "https://codes.findlaw.com/nm/chapter-67-highways/nm-st-sect-67-8-22/"
+  },
+  {
+   "ab": "NY",
+   "name": "New York",
+   "status": "limited",
+   "limit": "3 hours after dark (10 h commercial)",
+   "note": "Night-time cap is 3 hours for passenger vehicles.",
+   "src": "https://www.law.cornell.edu/regulations/new-york/17-NYCRR-156.3"
+  },
+  {
+   "ab": "NC",
+   "name": "North Carolina",
+   "status": "signs",
+   "limit": "No statewide cap \u2014 tents/structures banned; 4-h signs at some sites",
+   "note": "Tents and structures prohibited; some individual rest areas post 4-hour limits that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "ND",
+   "name": "North Dakota",
+   "status": "signs",
+   "limit": "No statewide cap \u2014 'No Overnight Camping' signs",
+   "note": "The sign bans camping (undefined) and says nothing about the person asleep in the driver's seat. In practice: sleep inside, stay low-key.",
+   "src": null
+  },
+  {
+   "ab": "OH",
+   "name": "Ohio",
+   "status": "signs",
+   "limit": "3 h unattended \u2014 camping banned",
+   "note": "Camping prohibited; unattended vehicles may be towed after 3 hours. An occupied vehicle is a different question.",
+   "src": "https://codes.ohio.gov/ohio-administrative-code/chapter-5501:2-4"
+  },
+  {
+   "ab": "OK",
+   "name": "Oklahoma",
+   "status": "signs",
+   "limit": "No formal rule",
+   "note": "No statewide rest-area rule at all; posted signs govern.",
+   "src": null
+  },
+  {
+   "ab": "OR",
+   "name": "Oregon",
+   "status": "limited",
+   "limit": "12 hours in any 24",
+   "note": "Sleeping in the vehicle allowed within the cap; camping prohibited (OAR 734-030-0010).",
+   "src": "https://oregon.public.law/rules/oar_734-030-0010"
+  },
+  {
+   "ab": "PA",
+   "name": "Pennsylvania",
+   "status": "limited",
+   "limit": "2 hours or posted limit",
+   "note": "Prohibited acts include 'sleeping anywhere but in a legally parked vehicle' \u2014 inside the van you're fine, briefly (67 Pa. Code ch. 443).",
+   "src": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/067/chapter443/chap443toc.html"
+  },
+  {
+   "ab": "RI",
+   "name": "Rhode Island",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "SC",
+   "name": "South Carolina",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "SD",
+   "name": "South Dakota",
+   "status": "limited",
+   "limit": "3 hours (10 h commercial)",
+   "note": "The statute says 'temporarily resting in any vehicle' is not camping at all \u2014 but the 3-hour cap still applies (SDCL 31-7-17).",
+   "src": "https://law.justia.com/codes/south-dakota/title-31/chapter-07/section-31-7-17/"
+  },
+  {
+   "ab": "TN",
+   "name": "Tennessee",
+   "status": "no",
+   "limit": "2-hour limit",
+   "note": "No overnight parking; two-hour cap.",
+   "src": "https://www.tn.gov/tdot/engineering-operations-division/welcome-center-rest-areas.html"
+  },
+  {
+   "ab": "TX",
+   "name": "Texas",
+   "status": "limited",
+   "limit": "24 hours",
+   "note": "A full day in any rest area \u2014 among the most permissive caps (Tex. Transp. Code 545.411). Tents/shelters prohibited.",
+   "src": "https://texas.public.law/statutes/tex._transp._code_section_545.411"
+  },
+  {
+   "ab": "UT",
+   "name": "Utah",
+   "status": "ok",
+   "limit": "Extended stays permitted, monitored",
+   "note": "UDOT tolerates extended vehicle stays; camping by sign is prohibited.",
+   "src": null
+  },
+  {
+   "ab": "VT",
+   "name": "Vermont",
+   "status": "signs",
+   "limit": "No statewide cap \u2014 camping banned unless designated",
+   "note": "Overnight camping banned unless at a designated site; parking itself not addressed (23 V.S.A. 1325).",
+   "src": "https://legislature.vermont.gov/statutes/section/23/013/01106"
+  },
+  {
+   "ab": "VA",
+   "name": "Virginia",
+   "status": "no",
+   "limit": "No overnight parking",
+   "note": "Overnight parking itself is banned, not just camping. No sleeping in the buildings either.",
+   "src": "https://law.lis.virginia.gov/admincode/title24/agency30/chapter51/section30/"
+  },
+  {
+   "ab": "WA",
+   "name": "Washington",
+   "status": "limited",
+   "limit": "8 hours in any 24",
+   "note": "Sleeping in the vehicle allowed within the cap (RCW 47.38.020).",
+   "src": "https://app.leg.wa.gov/rcw/default.aspx?cite=47.38.020"
+  },
+  {
+   "ab": "DC",
+   "name": "Washington DC",
+   "status": "no",
+   "limit": "Overnight parking restricted",
+   "note": "Most DC streets ban overnight parking; check posted signs. Plan on a hotel or out-of-state rest area for long hauls through the capital region.",
+   "src": null
+  },
+  {
+   "ab": "WV",
+   "name": "West Virginia",
+   "status": "signs",
+   "limit": "No statewide rule published",
+   "note": "The state DOT publishes no time limit or overnight rule \u2014 the sign at the individual rest area is the law. A few of these states post 4\u20136 hour limits at some sites that never made it into a statewide rule.",
+   "src": null
+  },
+  {
+   "ab": "WI",
+   "name": "Wisconsin",
+   "status": "signs",
+   "limit": "No statewide cap \u2014 camping banned after notice",
+   "note": "Camping prohibited after notice; vehicle sleeping not addressed (Wis. Stat. 89.13).",
+   "src": "https://docs.legis.wisconsin.gov/statutes/statutes/86/025"
+  },
+  {
+   "ab": "WY",
+   "name": "Wyoming",
+   "status": "ok",
+   "limit": "Sleep in the vehicle \u2014 nothing set up outside",
+   "note": "The state's own rest-area brochure tells you to sleep in the vehicle; don't pitch a tent or run out the slides.",
+   "src": null
+  }
+ ],
+ "blmStates": [
+  "AZ",
+  "CA",
+  "CO",
+  "ID",
+  "MT",
+  "NV",
+  "NM",
+  "OR",
+  "TX",
+  "UT",
+  "WA",
+  "WY"
+ ]
+}

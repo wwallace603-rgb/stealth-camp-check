@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

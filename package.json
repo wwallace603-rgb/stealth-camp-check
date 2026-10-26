@@ -1,0 +1,38 @@
+{
+  "name": "stealth-camp-check",
+  "version": "0.1.0",
+  "description": "Overnight parking & rest area rules by state — BLM 14-day rule, time limits, and what 'no camping' really means. From CarSteader.",
+  "keywords": [
+    "vanlife",
+    "stealth camping",
+    "overnight parking",
+    "rest area",
+    "blm",
+    "camping rules",
+    "legal",
+    "van",
+    "sleep in car"
+  ],
+  "bin": {
+    "stealth-camp-check": "bin/stealth-camp-check.js"
+  },
+  "files": [
+    "bin",
+    "stealth_camp_check/states.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://carsteader.com/tools/stealth-camp-check/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwallace603-rgb/stealth-camp-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wwallace603-rgb/stealth-camp-check/issues"
+  },
+  "author": "CarSteader <hello@carsteader.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
